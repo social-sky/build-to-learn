@@ -1,0 +1,8 @@
+# 本机配置，各人各异
+config.md
+
+# 作者的 skill 同步工具产物
+.sync-origin
+
+# macOS
+.DS_Store
