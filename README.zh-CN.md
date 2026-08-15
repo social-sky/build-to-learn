@@ -1,3 +1,15 @@
+## 致謝與來源
+
+本專案是 **[Tasihi89/build-to-learn](https://github.com/Tasihi89/build-to-learn)** 的 fork，原作者為 **changcheng**（塔斯海），採用 MIT 授權。
+
+- 原作者：[@Tasihi89](https://github.com/Tasihi89)
+- 原始標語：*「學是目的，做是檢驗——AI 寫代碼，你建立心智模型。」*
+- 授權：MIT（見 [LICENSE](./LICENSE)）
+
+此 fork 由 **social-sky**（Sky Cloud）維護。修改內容同樣以 MIT 授權釋出。
+
+---
+
 # Build to Learn 使用指南
 
 [English](README.md) | **简体中文**
