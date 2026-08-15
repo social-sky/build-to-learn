@@ -1,0 +1,20 @@
+Build to Learn — Skill for Claude Code / Codex
+
+Copyright (c) 2026 changcheng (Tasihi89)
+
+This project is a fork of:
+  Tasihi89/build-to-learn
+  https://github.com/Tasihi89/build-to-learn
+
+Original author : changcheng (https://github.com/Tasihi89)
+Original tagline: "A Claude Code skill where learning is the goal
+                   and building is the test — AI writes the code,
+                   you build the mental model."
+
+This fork is maintained by social-sky (Sky Cloud).
+Modifications are released under the same MIT License.
+See the LICENSE file for the full license text.
+
+If you redistribute this fork, please retain this NOTICE file
+and the LICENSE file unchanged. Modifications should be clearly
+marked in commit history and/or in file headers.
