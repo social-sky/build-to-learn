@@ -1,3 +1,15 @@
+## Credits / Attribution
+
+This project is a fork of **[Tasihi89/build-to-learn](https://github.com/Tasihi89/build-to-learn)** by **changcheng** (塔斯海), licensed under MIT.
+
+- Original author: [@Tasihi89](https://github.com/Tasihi89)
+- Original tagline: *"A Claude Code skill where learning is the goal and building is the test — AI writes the code, you build the mental model."*
+- License: MIT (see [LICENSE](./LICENSE))
+
+This fork is maintained by **social-sky** (Sky Cloud). Modifications are released under the same MIT License.
+
+---
+
 # Build to Learn
 
 **English** | [简体中文](README.zh-CN.md)
